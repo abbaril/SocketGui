@@ -1,0 +1,16 @@
+SocketGUI6/SocketGUI6.pro
+SocketGUI6/dialog.cpp
+SocketGUI6/dialog.h
+SocketGUI6/dialog.ui
+SocketGUI6/main.cpp
+SocketGUI6/src/servers/http/httpconnection.cpp
+SocketGUI6/src/servers/http/httpconnection.h
+SocketGUI6/src/servers/http/httpserver.cpp
+SocketGUI6/src/servers/http/httpserver.h
+SocketGUI6/src/servers/tcp/tcpconnection.cpp
+SocketGUI6/src/servers/tcp/tcpconnection.h
+SocketGUI6/src/servers/tcp/tcprunnable.cpp
+SocketGUI6/src/servers/tcp/tcprunnable.h
+SocketGUI6/src/servers/tcp/tcpserver.cpp
+SocketGUI6/src/servers/tcp/tcpserver.h
+SocketGUI6/src/servers/tcp/tcpserver.pri
